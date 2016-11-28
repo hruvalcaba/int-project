@@ -1,0 +1,11 @@
+C:\dev\local\nopCommerce_3.80\Presentation\Nop.Web\Plugins\Sync.Cklass\Description.txt
+C:\dev\local\nopCommerce_3.80\Presentation\Nop.Web\Plugins\Sync.Cklass\logo.jpg
+C:\dev\local\nopCommerce_3.80\Presentation\Nop.Web\Plugins\Sync.Cklass\web.config
+C:\dev\local\nopCommerce_3.80\Presentation\Nop.Web\Plugins\Sync.Cklass\Views\CklassConfig\Configure.cshtml
+C:\dev\local\nopCommerce_3.80\Presentation\Nop.Web\Plugins\Sync.Cklass\Nop.Plugin.Sync.Cklass.dll.config
+C:\dev\local\nopCommerce_3.80\Presentation\Nop.Web\Plugins\Sync.Cklass\Nop.Plugin.Sync.Cklass.dll
+C:\dev\local\nopCommerce_3.80\Presentation\Nop.Web\Plugins\Sync.Cklass\Nop.Plugin.Sync.Cklass.pdb
+C:\dev\local\nopCommerce_3.80\Plugins\Nop.Plugin.Sync.Cklass\obj\Release\Nop.Plugin.Sync.Cklass.csproj.App.config
+C:\dev\local\nopCommerce_3.80\Plugins\Nop.Plugin.Sync.Cklass\obj\Release\Nop.Plugin.Sync.Cklass.csprojResolveAssemblyReference.cache
+C:\dev\local\nopCommerce_3.80\Plugins\Nop.Plugin.Sync.Cklass\obj\Release\Nop.Plugin.Sync.Cklass.dll
+C:\dev\local\nopCommerce_3.80\Plugins\Nop.Plugin.Sync.Cklass\obj\Release\Nop.Plugin.Sync.Cklass.pdb

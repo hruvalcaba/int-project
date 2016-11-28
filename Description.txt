@@ -1,0 +1,9 @@
+﻿Group: Syncronization
+FriendlyName: Conection to Cklass system
+SystemName: Sync.Cklass
+Version: 0.8_dev
+SupportedVersions: 3.80
+Author: Ing. Ruvalcaba Covarrubias H. Cesar
+DisplayOrder: 1
+FileName: Nop.Plugin.Sync.Cklass.dll
+Description: This plugin offers external conection with Cklass system services
